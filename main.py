@@ -64,4 +64,5 @@ elif player_points==computer_points:
 elif player_points<computer_points:
     print("You lost!")
 
+print("test test")
 input("Press [Enter] to exit")
